@@ -1,4 +1,4 @@
-# Swiftlang GitHub Policies and Administration 
+# Swiftlang GitHub Policies and Administration
 
 ## Swiftlang
 
@@ -8,7 +8,7 @@ In this GitHub organization, you'll find:
 
 - Official tools, programs, and components that are part of the Swift toolchain or play a role in developing the Swift toolchain
 
-- Projects that meet the Swift projects [organizational principles](##Principles) 
+- Projects that meet the Swift projects [organizational principles](#principles)
 
 - Packages that serve as the canonical solution, provide a critical reason for their existence within the language as advised by Steering Groups/Core Team, or otherwise highlight their necessity for maintaining the health of the ecosystem.
 
@@ -54,4 +54,4 @@ Steering Groups should work with their Core Team rep to start a new repository r
 
 ## Transferring a repository into github.com/swiftlang
 
-The Core Team is actively working on a process. Please check back for more information. The process will also start at the Steering Group level for sponsorship. 
+The Core Team is actively working on a process. Please check back for more information. The process will also start at the Steering Group level for sponsorship.
