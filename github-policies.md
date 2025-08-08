@@ -27,7 +27,7 @@ In this GitHub organization, you'll find:
 
 ## Principles
 
-- The code provided in the [swiftlang GitHub Organization](github.com/swiftlang) is largely licensed through Apache 2.0. We will not approve other licenses without discussion first through the Core team
+- The code provided in the [swiftlang GitHub Organization](https://github.com/swiftlang) is largely licensed through Apache 2.0. We will not approve other licenses without discussion first through the Core team
 - All projects in this org adhere to:
   - [the Swift Code of Conduct](https://www.swift.org/code-of-conduct/)
   - [the Swift Security process](https://www.swift.org/support/security.html) unless otherwise noted in the projects approved SECURITY.md at the root
