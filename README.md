@@ -1,10 +1,10 @@
 # 🏛️🤝 Swift Project Operations 🤝🏛️
 
-This repository houses process, policy, and procedure that relates to operation of the the Swift project, notably the [github.com/swiftlang] organization.
+This repository houses processes, policies, and procedures that relate to the operation of the Swift project, notably the [github.com/swiftlang] organization.
 
-If you're looking for basic contributing information like opening up your first pull request or finding an issue, try [Contributing Guide] first. Some repositories also have additional information in their own CONTRIBUTING.md at the root of the repository.
+If you're looking for basic contributing information like opening up your first pull request or finding an issue, try the [Contributing Guide] first. Some repositories also have additional information in their own CONTRIBUTING.md at the root of the repository.
 
-:construction: Check back for additional guidance as we grow this repositiory. :construction:
+:construction: Check back for additional guidance as we grow this repository. :construction:
 
 Current Table of Contents:
 - [GitHub Processes and Policies](/github-policies.md):
