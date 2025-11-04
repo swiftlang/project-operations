@@ -35,10 +35,21 @@ In this GitHub organization, you'll find:
   - [the Swift Code of Conduct](https://www.swift.org/code-of-conduct/)
   - [the Swift Security process](https://www.swift.org/support/security.html) unless otherwise noted in the projects approved SECURITY.md at the root.
 - All projects agree to open and active development.
-  - Follows the Swift Toolchain Release Process; if not, there is a documented process document.
-      - For projects that are packages:
-        - There should be a statement in the README on how those packages handle versioning.
-        - The package supports the latest official Swift release and one prior.
+- Projects are either released as part of the Swift Toolchain or as Swift packages.
+- Projects released through the Swift Toolchain follow the Swift Toolchain Release Process.
+- For projects released as Swift packages:
+  - Package versions **must** follow [Semantic Versioning](https://semver.org).
+  - Packages **should** support the **latest patch releases** of the **last three minor** official Swift releases.
+    - For example, if the currently latest Swift release is `6.2.1` then a package would be expected to support `6.2.1`, `6.1.3` and `6.0.3`.
+    - As an exception, new packages are free to start with only supporting the latest official Swift release.
+    - The expected Swift support should be tested on every pull request using the continuous integration provided by [swiftlang/github-workflows](https://github.com/swiftlang/github-workflows).
+    - Changes to the minimum supported Swift version should be enforced by [setting the Swift tools version](https://docs.swift.org/swiftpm/documentation/packagemanagerdocs/settingswifttoolsversion).
+  - Packages **should** support all [official supported Swift platforms and all their supported versions](https://www.swift.org/platform-support/).
+    - As an exception, if a package is meant to support a limited set of platforms, it should document what platforms it supports in the package's README.
+    - For packages that support Apple platforms, they should support the **latest minor and patch** Xcode release of all **major** releases [accepted by the App Store](https://developer.apple.com/support/xcode/).
+      - For example, if the current latest Xcode release is `26.0.1` and the minimum accepted **major** Xcode version by the App Store is `16.0` then a package would be expected to support `26.0.1` and `16.4.0`.
+      - As an exception, newly released package projects are free to start with only supporting the latest official Xcode release.
+      - As with Swift version support, support within Xcode should be tested on every pull request using the continuous integration workflows provided by [swiftlang/github-workflows](https://github.com/swiftlang/github-workflows).
   - Active CODEOWNERS are defined.
   - Accept the GitHub membership and code committers policy.
   - Accept pull requests and issues (unless it's a fork, clone, or mirror with a specific purpose detailed on the README).
