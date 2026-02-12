@@ -11,13 +11,13 @@ No matter how you want to get involved, we ask that you first learn what's expec
 
 The Swift language is developed in the open, and all technical or administrative topics about the language or community processes should be directed to the Swift public forums. Public conversations are encouraged, and active developers of the Swift language should monitor the relevant forum categories.
 
-- Asking and answering questions in the [forums](./forums.md]
-- [reporting bugs](./reporting-bugs.md)
-- [triaging bugs](./triaging-bugs.md)
-- [good first issues](./good-first-issues.md)
-- [swift evolution process](./swift-evolution.md)
-- [contributing code](./contributing-code.md)
-- [contributor ladder](./contributor-ladder.md)
+- Asking and answering questions in the [forums](./forums.md)
+- [Reporting bugs](./reporting-bugs.md)
+- [Triaging bugs](./triaging-bugs.md)
+- [Good first issues](./good-first-issues.md)
+- [Swift evolution process](./swift-evolution.md)
+- [Contributing code](./contributing-code.md)
+- [Contributor ladder](./contributor-ladder.md)
 
 Source code for Swift projects can be found on GitHub at [github.com/swiftlang](https://github.com/swiftlang).
 The Swift bug tracking system is maintained at [github.com/swiftlang/swift/issues](http://github.com/swiftlang/swift/issues).
