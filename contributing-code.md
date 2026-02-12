@@ -208,5 +208,5 @@ You are expected to check those messages to see whether they are your fault and,
 Commits that clearly violate these quality standards may be reverted, in particular when the change blocks other developers from making progress.
 The developer is welcome to recommit the change after the problem has been fixed.
 
-[community]: /community  "Swift.org community overview"
-[get_started]: /getting-started/ "How to setup your own version of Swift"
+[community]: https://www.swift.org/community/  "Swift community overview"
+[get_started]: https://www.swift.org/install/ "Install Swift"

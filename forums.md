@@ -1,9 +1,10 @@
 # Swift Forums
 
-One of the most important and immediate ways you can support the community is to ask and answer questions on the [forums](./forums.md).
+One of the most important and immediate ways you can support the community is to ask and answer questions on the [forums](https://forums.swift.org).
 Whether you're helping a newcomer understand a language feature or troubleshooting an edge case with a seasoned developer, your knowledge and experience of Swift can go a long way to help others.
 
-The primary method of communicating among community members is through the [Swift forums](https://forums.swift.org).  Within the forums, we have a number of categories and sub-categories, to help organize discussions.
+The primary method of communicating among community members is through the Forums.
+Within the forums, we have a number of categories and sub-categories, to help organize discussions.
 Forum topics can be further organized via use of tags.
 
 In addition to the forum web interface, the forums can be interacted with via email.
