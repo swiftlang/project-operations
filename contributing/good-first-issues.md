@@ -4,4 +4,4 @@ Good first issues are bugs, ideas, and tasks that are intended to be accessible 
 Good first issues are decorated with a corresponding label and are most easily found by visiting `github.com/swiftlang/<repository>/contribute`, for example [github.com/swiftlang/contribute](https://github.com/swiftlang/swift/contribute) for the main Swift repository.
 They are expected to be low-priority and of modest scope, and not require excessive refactoring, research, or debugging — rather, they should encourage newcomers to dip their toes in some part of Swift, learn more about it, and make a real contribution.
 
-Anyone with [commit access](#code-merger) and insight into a particular area is welcome and encouraged to pin down or think up good first issues.
+Anyone with [commit access](../contributor-ladder#code-merger) and insight into a particular area is welcome and encouraged to pin down or think up good first issues.
