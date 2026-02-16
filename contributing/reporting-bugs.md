@@ -19,7 +19,7 @@ When opening an issue, please include the following:
 Because Swift is under very active development, we receive a lot of bug reports. Before opening a new issue, take a moment to browse our [existing issues](https://github.com/swiftlang/swift/issues) to reduce the chance of reporting a duplicate.
 
 [!WARNING]
-> Before filing an issue requesting a new language feature, see the [Swift Evolution Process section](#participating-in-the-swift-evolution-process).
+> Before filing an issue requesting a new language feature, see the [Swift Evolution Process](./swift-evolution.md).
 
 
 [bugtracker]: http://github.com/swiftlang/swift/issues
