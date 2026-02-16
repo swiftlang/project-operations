@@ -5,6 +5,6 @@ The [Swift evolution process][swift-evolution-process] covers all changes to the
 
 See the [Swift evolution review schedule][swift-evolution-reviews] for current and upcoming proposal reviews.
 
-[swift-evolution-forums]: /community/#swift-evolution  "Swift Evolution forums"
+[swift-evolution-forums]: forums.md#swift-evolution  "Swift Evolution forums"
 [swift-evolution-process]: https://github.com/swiftlang/swift-evolution/blob/main/process.md  "Swift Evolution process"
-[swift-evolution-reviews]: /swift-evolution  "Swift Evolution reviews"
+[swift-evolution-reviews]: https://www.swift.org/swift-evolution  "Swift Evolution reviews"
