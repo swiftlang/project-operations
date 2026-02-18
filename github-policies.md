@@ -47,9 +47,9 @@ In this GitHub organization, you'll find:
   - Packages **should** support all [official supported Swift platforms and all their supported versions](https://www.swift.org/platform-support/).
     - As an exception, if a package is meant to support a limited set of platforms, it should document what platforms it supports in the package's README.
     - For packages that support Apple platforms, they should support the **latest minor and patch** Xcode release **aligned** with each **supported Swift minor version**.
-      - For example, if the current latest Xcode release is `26.3.0` (containing Swift `6.3.0`) then a package would be expected to support:
-        - `26.3`, aligned with Swift `6.3`
-        - `26.2`, aligned with Swift `6.2`
+      - For example, if the current latest Xcode release is `26.4.0` (containing Swift `6.3.0`) then a package would be expected to support:
+        - `26.4`, aligned with Swift `6.3`
+        - `26.3`, aligned with Swift `6.2`
         - `16.4`, aligned with Swift `6.1`
       - As an exception, newly released package projects are free to start with only supporting the latest official Xcode release.
       - As with Swift version support, support within Xcode should be tested on every pull request using the continuous integration workflows provided by [swiftlang/github-workflows](https://github.com/swiftlang/github-workflows).
