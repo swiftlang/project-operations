@@ -36,7 +36,7 @@ Some contributions are made primarily as a learning experience, such as working 
 Using AI tools to support your learning can be helpful, such as for exploring unfamiliar areas of a new codebase. However, you are expected to use these tools in a way that supports — rather than replaces — your own learning and problem-solving. Over-reliance on AI risks undermining the very growth opportunities these programs are designed to provide.
 
 Examples:
-* You should take the time to understand the code you are modifying, even if AI tools can quickly suggest a working solution. Take the time to understand the code you are modifying and how your changes fit into the broader system, even if this slows down your pace of writing more code.
+* You should take the time to understand the code you are modifying, even if AI tools can quickly suggest a working solution. This includes exploring how your changes fit into the broader system, even if this slows down your pace of writing more code.
 * You should treat AI-generated code as a starting point, and rewrite or adapt it as needed to ensure you understand how and why it works.
 * You should be able to explain your implementation decisions and reasoning to reviewers without relying on AI-generated explanations.
 * You should expect to iterate on your changes based on feedback, and use that feedback as part of the learning process.
