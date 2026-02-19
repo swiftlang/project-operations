@@ -29,6 +29,21 @@ Examples:
 
 > **Rationale**: We’re a community of humans, and we value hearing your ideas, questions, insights, and reasoning in your own words. Writing your own prose is also an important exercise in understanding, summarizing, and taking ownership of the change you're proposing, whether it's a code change or a new evolution proposal.
 
+## Learning-oriented contributions
+
+Some contributions are made primarily as a learning experience, such as working on GitHub issues labeled with `Good First Issue`, or participating in mentorship programs like Google Summer of Code and the Swift Mentorship Program. These contributions are especially valuable not just for their outcomes, but for the growth and understanding they foster.
+
+Using AI tools to support your learning can be helpful, such as for exploring unfamiliar areas of a new codebase. However, you are expected to use these tools in a way that supports — rather than replaces — your own learning and problem-solving. Over-reliance on AI risks undermining the very growth opportunities these programs are designed to provide.
+
+Examples:
+* You should take the time to understand the code you are modifying, even if AI tools can quickly suggest a working solution. Take the time to understand the code you are modifying and how your changes fit into the broader system, even if this slows down your pace of writing more code.
+* You should treat AI-generated code as a starting point, and rewrite or adapt it as needed to ensure you understand how and why it works.
+* You should be able to explain your implementation decisions and reasoning to reviewers without relying on AI-generated explanations.
+* You should expect to iterate on your changes based on feedback, and use that feedback as part of the learning process.
+* You should not _only_ ask questions to a coding assistant or LLM chat -- please ask questions to your mentor and other contributors in the Swift community!
+
+> **Rationale**: Mentorship programs are designed to help you 1. build a foundational understanding of a new technical area, and 2. get to know other contributors in the Swift community. While AI tools can accelerate progress, over-reliance on them can bypass important learning opportunities. Taking the time to engage deeply with the code, write and refine your own implementation, and engage with other contributors will help you get the most value out of these experiences for both your technical understanding and getting to know the community.
+
 ## AI Attribution
 
 You are encouraged to include a brief AI attribution with your contribution when AI tools assisted your workflow. An attribution should identify:
