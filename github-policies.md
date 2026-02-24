@@ -46,11 +46,11 @@ In this GitHub organization, you'll find:
     - Changes to the minimum supported Swift version should be enforced by [setting the Swift tools version](https://docs.swift.org/swiftpm/documentation/packagemanagerdocs/settingswifttoolsversion).
   - Packages **should** support all [official supported Swift platforms and all their supported versions](https://www.swift.org/platform-support/).
     - As an exception, if a package is meant to support a limited set of platforms, it should document what platforms it supports in the package's README.
-    - For packages that support Apple platforms, they should support the **latest minor and patch** Xcode release **aligned** with each **supported Swift minor version**.
-      - For example, if the current latest Xcode release is `26.4.0` (containing Swift `6.3.0`) then a package would be expected to support:
-        - `26.4`, aligned with Swift `6.3`
-        - `26.3`, aligned with Swift `6.2`
-        - `16.4`, aligned with Swift `6.1`
+    - For packages that support Apple platforms, they should test their Swift version support by using the Xcode's matching the Swift version strategy from above.
+      - For example, if the last released minor Swift version is 6.2.3, then a package would be expected to test with:
+        - `26.2`, aligned with Swift `6.2.3`
+        - `16.4`, aligned with Swift `6.1.2`
+        - `16.2`, aligned with Swift `6.0.3`
       - As an exception, newly released package projects are free to start with only supporting the latest official Xcode release.
       - As with Swift version support, support within Xcode should be tested on every pull request using the continuous integration workflows provided by [swiftlang/github-workflows](https://github.com/swiftlang/github-workflows).
   - Active CODEOWNERS are defined.
