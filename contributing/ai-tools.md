@@ -43,19 +43,3 @@ Examples:
 * You should not _only_ ask questions to a coding assistant or LLM chat -- please ask questions to your mentor and other contributors in the Swift community!
 
 > **Rationale**: Mentorship programs are designed to help you 1. build a foundational understanding of a new technical area, and 2. get to know other contributors in the Swift community. While AI tools can accelerate progress, over-reliance on them can bypass important learning opportunities. Taking the time to engage deeply with the code, write and refine your own implementation, and engage with other contributors will help you get the most value out of these experiences for both your technical understanding and getting to know the community.
-
-## AI Attribution
-
-You are encouraged to include a brief AI attribution with your contribution when AI tools assisted your workflow. An attribution should identify:
-
-* The AI tool or coding assistant used
-* A short description of how it was used
-
-This attribution can be included in the PR description, marked with `Assisted By:`. AI attribution is intended to be lightweight and informational. It is not used to judge contributions differently or impose additional review requirements.
-
-Examples:
-
-* If you used an AI tool to help add visual structure to a document you wrote, include an AI attribution such as `Assisted By: ChatGPT added section headings and re-formatted text I wrote to make the document easier to follow`.
-* If you used an AI tool to generate test cases for a code contribution, include an AI attribution such as `Assisted By: Claude Code generated test cases based on my explanation of the bug I fixed and the intended behavior.`
-
-> **Rationale**: Sharing useful prompting techniques that you discover throughout your development process will help the community adapt their workflows as we learn how to make the most effective use of AI tools together.
