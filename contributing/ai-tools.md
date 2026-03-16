@@ -2,7 +2,9 @@
 
 The Swift project welcomes and encourages the use of AI-assisted tools, such as coding assistants and large language models, to aid contributing. When used thoughtfully, these tools can improve productivity, help contributors learn an unfamiliar codebase, and more.
 
-The [contributing guidelines](/contributing) contain criteria for ensuring that a contribution meets the high-quality standards of the Swift project, regardless of how a contribution was developed. The following guidelines are intended to set expectations around authorship, understanding, and transparency when using AI tools to assist your development workflow.
+The [contributing guidelines](/contributing) contain criteria for ensuring that a contribution meets the high-quality standards of the Swift project, regardless of how a contribution was developed. They also contain development best practices for ensuring that a contribution is easy for maintainers to review. Ease of review is especially critical with AI-assisted contributions, because maintainers have a higher volume of changes to review. Please carefully read the contribution guidelines and ensure that you follow them for your AI-assisted changes, including keeping PRs small and focused without unrelated changes, separating refactoring from functional changes, limiting the number of PRs you have open at once, etc. Maintainers have a right to request changes on PRs that do not follow these guidelines.
+
+The following guidelines are intended to set expectations around authorship, understanding, and transparency when using AI tools to assist your development workflow.
 
 ## Understanding and Responsibility
 
