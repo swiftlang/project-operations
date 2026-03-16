@@ -19,17 +19,23 @@ Examples:
 
 ## Authorship and Voice
 
-You are expected to use your own voice, ideas, and judgment when producing written materials associated with a contribution, including (but not limited to) forum and GitHub comments, proposal documents, documentation, commit messages, and PR descriptions.
+You are expected to use your own ideas, judgment, and voice when producing written materials associated with a contribution, including (but not limited to) forum and GitHub comments, proposal documents, documentation, commit messages, and PR descriptions.
 
-Using AI tools to help draft text is acceptable, such as for editorial refinements or translation help. You are expected to review, adapt, and personalize the text to ensure it accurately represents your understanding and decisions.
+Using AI tools to help draft text is acceptable, such as for editorial refinements or translation help, and you are expected to review, adapt, and personalize the text. Before posting AI-assisted text, ask yourself: does this accurately reflect my own understanding and reasoning? If a reviewer asked you to elaborate on a point in your PR description, could you do so in your own words? If not, the text needs more of your own thinking before it's ready.
 
 Examples:
 
-* You should write your own pull request descriptions and commit messages summarizing and justifying an AI-assisted code change.
-* When engaging in discussion with other contributors, such as in code review discussions, GitHub issue threads, or discussion on the forums, you should write your own replies.
-* When writing proposal documents, you should write down the ideas you'd like to propose, and use AI tools for editorial changes. You should review all changes made to your text before proposing it, adjust any incorrect or superfluous text, and ensure that the tone of voice is still your own.
+* What counts as acceptable AI assistance for written materials:
+  * Fixing grammar, spelling, or punctuation
+  * Suggesting clearer phrasing for an idea you've already articulated
+  * Translating text you wrote in another language
+* What is not in the spirit of this policy:
+  * Generating the reasoning or justification for a design decision
+  * Producing your position in a technical debate
+  * Writing a proposal's motivation or alternatives sections from scratch
+  * Responding to reviewer feedback with AI-generated replies
 
-> **Rationale**: We’re a community of humans, and we value hearing your ideas, questions, insights, and reasoning in your own words. Writing your own prose is also an important exercise in understanding, summarizing, and taking ownership of the change you're proposing, whether it's a code change or a new evolution proposal.
+> **Rationale**: We're a community of humans, and we value hearing your ideas, questions, insights, and reasoning in your own words. When you write your own prose, you are forced to clarify your own thinking, surface gaps in your understanding, and take genuine ownership of what you're proposing. A PR description or forum reply that was generated rather than written tells reviewers and collaborators less about your reasoning, and makes it harder for the community to engage meaningfully with your contribution.
 
 ## Learning-oriented contributions
 
