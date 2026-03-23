@@ -10,7 +10,7 @@ The following guidelines are intended to set expectations around authorship, und
 
 ## Understanding and Responsibility
 
-You are responsible for all of the contributions you submit, including issues, pull requests, and discussions. Using an AI tool does not reduce the expectation that you understand the code or design you are submitting. You are expected to do a self-review and revise your contribution as needed before requesting a PR review from another contributor, and you should be prepared to explain, clean up, and refine the contribution as requested by reviewers until the contribution meets the quality standards of the project.
+You are responsible for all of the contributions you submit, including issues, pull requests, and discussions. Using an AI tool does not reduce the expectation that you understand the code or design you are submitting. You are expected to do a self-review and revise your contribution as needed before requesting a PR review from another contributor, and you should be prepared to explain, clean up, and refine the contribution as requested by reviewers.
 
 Examples:
 
@@ -23,7 +23,7 @@ Examples:
 
 You are expected to use your own ideas, judgment, and voice when producing written materials associated with a contribution, including (but not limited to) forum and GitHub comments, proposal documents, documentation, commit messages, and PR descriptions.
 
-Using AI tools to help draft text is acceptable, such as for editorial refinements or translation help, and you are expected to review, adapt, and personalize the text. Before posting AI-assisted text, ask yourself: does this accurately reflect my own understanding and reasoning? If a reviewer asked you to elaborate on a point in your PR description, could you do so in your own words? If not, the text needs more of your own thinking before it's ready.
+Using AI tools to help write text is acceptable, such as for editorial refinements or translation help, and you are expected to review, adapt, and personalize the text. Before posting AI-assisted text, ask yourself: does this accurately reflect my own understanding and reasoning? If a reviewer asked you to elaborate on a point in your PR description, could you do so in your own words? If not, the text needs more of your own thinking before it's ready.
 
 Examples:
 
