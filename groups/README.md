@@ -36,4 +36,4 @@ The Core Team provides cohesion across the Swift community’s various Groups an
   
 Ted Kremenek is the Chair of the Core Team, also known as the Project Lead. Apple's Software Engineering leadership appoints the Project Lead. 
 
-[Core Team](/core-team.md)
+[Core Team](/groups/core-team.md)
