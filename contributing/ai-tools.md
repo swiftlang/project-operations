@@ -4,7 +4,7 @@ The Swift project welcomes the use of large language models and LLM-based coding
 
 The [contributing guidelines](/contributing) contain criteria for ensuring that a contribution meets the high-quality standards of the Swift project, regardless of how a contribution was developed. They also contain development best practices for ensuring that a contribution is easy for maintainers to review. Ease of review is especially critical with AI-assisted contributions, because maintainers have a higher volume of changes to review. Please carefully read the contribution guidelines and ensure that you follow them for your AI-assisted changes, including keeping PRs small and focused without unrelated changes, separating refactoring from functional changes, limiting the number of PRs you have open at once, etc. Maintainers have a right to request changes on PRs that do not follow these guidelines.
 
-The Swift project is governed by the [Code of Conduct](https://www.swift.org/code-of-conduct/). Contributors are expected to engage respectfully with all contributions regardless of how they were developed. If you witness or experience conduct that falls short of this standard, please contact the [Swift Core Team](https://www.swift.org/community/#core-team).
+The Swift project is governed by the [Code of Conduct](https://www.swift.org/code-of-conduct/). Contributors are expected to engage respectfully with all contributions regardless of how they were developed. If you witness or experience conduct that falls short of this standard, please contact the [Swift Core Team](/groups/core-team.md).
 
 The following guidelines are intended to set expectations around authorship, understanding, and transparency when using AI tools to assist your development workflow.
 
