@@ -1,5 +1,7 @@
 # Swift Core Team
 
+[Contact via Forums](https://forums.swift.org/new-message?groupname=core-team)
+
 The Core Team provides cohesion across the Swift community’s various Groups and initiatives, providing support and strategic alignment. The Project Lead appoints members of the Core Team to bring a mixture of experience, expertise, and leadership so the group may together act as effective stewards for the Swift project and its community. The Core Team membership is expected to change over time with check-ins at a two year mark.  
   
 Ted Kremenek is the Chair of the Core Team, also known as the Project Lead. Apple's Software Engineering leadership appoints the Project Lead. 
