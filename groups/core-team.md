@@ -18,9 +18,7 @@ The Core Team is responsible for approving the following:
 
 Ben Cohen  
 Holly Borla  
-Marc Aupont  
 Mishal Shah  
-Paris Pittman  
 Saleem Abdulrasool  
 Ted Kremenek  
 
@@ -28,10 +26,12 @@ Ted Kremenek
 
 We are grateful for the service of the following emeritus Core Team members:
 
-Chris Lattner  
-Dave Abrahams  
-Doug Gregor  
-Joe Groff  
-Joe Pamer  
-John McCall  
-Tom Doron  
+Chris Lattner
+Dave Abrahams 
+Doug Gregor 
+Joe Groff 
+Joe Pamer
+John McCall 
+Marc Aupont
+Paris Pittman
+Tom Doron
