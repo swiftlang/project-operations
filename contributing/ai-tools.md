@@ -6,7 +6,7 @@ The [contributing guidelines](/contributing) contain criteria for ensuring that 
 
 The Swift project is governed by the [Code of Conduct](https://www.swift.org/code-of-conduct/). Contributors are expected to engage respectfully with all contributions regardless of how they were developed. If you witness or experience conduct that falls short of this standard, please contact the [Swift Core Team](/groups/core-team.md).
 
-The following guidelines are intended to set expectations around authorship, understanding, and transparency when using AI tools to assist your development workflow.
+The following guidelines are intended to set expectations around responsibility, understanding, and transparency when using AI tools to assist your development workflow.
 
 ## Understanding and Responsibility
 
@@ -19,7 +19,7 @@ Examples:
 
 > **Rationale**: All contributions are expected to adhere to the quality standards of the Swift project, regardless of how the contribution was developed.
 
-## Authorship and Voice
+## Writing and Voice
 
 You are expected to use your own ideas, judgment, and voice when producing written materials associated with a contribution, including (but not limited to) forum and GitHub comments, proposal documents, documentation, commit messages, and PR descriptions.
 
