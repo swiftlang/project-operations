@@ -10,7 +10,7 @@ The following guidelines are intended to set expectations around responsibility,
 
 ## Understanding and Responsibility
 
-You are responsible for all of the contributions you submit, including issues, pull requests, and discussions. Using an AI tool does not reduce the expectation that you understand the code or design you are submitting. You are expected to do a self-review and revise your contribution as needed before requesting a PR review from another contributor, and you should be prepared to explain, clean up, and refine the contribution as requested by reviewers.
+You are responsible for all of the contributions you submit, including issues, pull requests, and discussions. Using an AI tool does not reduce the expectation that you understand the code or design you are submitting, or relieve you of your obligations under the Swift project license. You are expected to do a self-review and revise your contribution as needed before requesting a PR review from another contributor, and you should be prepared to explain, clean up, and refine the contribution as requested by reviewers.
 
 Examples:
 
@@ -41,7 +41,7 @@ Examples:
 
 ## Learning-oriented contributions
 
-Some contributions are made primarily as a learning experience, such as working on GitHub issues labeled with `Good First Issue`, or participating in mentorship programs like Google Summer of Code and the Swift Mentorship Program. These contributions are especially valuable not just for their outcomes, but for the growth and understanding they foster.
+Some contributions are made primarily as a learning experience, such as working on GitHub issues labeled with `Good First Issue`, or participating in mentorship programs like the Swift Mentorship Program. These contributions are especially valuable not just for their outcomes, but for the growth and understanding they foster.
 
 Using AI tools to support your learning can be helpful, such as for exploring unfamiliar areas of a new codebase. However, you are expected to use these tools in a way that supports — rather than replaces — your own learning and problem-solving. Over-reliance on AI risks undermining the very growth opportunities these programs are designed to provide.
 
