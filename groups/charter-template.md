@@ -1,12 +1,12 @@
-> title: "[Group Name] Charter"
-> status: "Active"
-> created: dd-MMM-YYYY
-> last_updated: dd-MMM-YYYY
-> contact_us: "@forum_handle"
+> title: "[Group Name] Charter"  
+> status: "Active"  
+> created: dd-MMM-YYYY  
+> last_updated: dd-MMM-YYYY  
+> contact_us: "@forum_handle"  
 
 # [Group Name] Charter
 
-This workgroup follows the baseline governance for all workgroups as set out in the [policy docs](workgroup.md). Below are the specifics for this group. 
+This workgroup follows the [baseline governance](workgroup.md) for all workgroups. Below are the specifics for this group.  
 
 ## Overview
 
@@ -23,7 +23,7 @@ _This section details the repositories that the group manages, oversees, maintai
 - [Repo 2]
 
 
-*[Optional] Any other details about the group that the community at large would need to know in order to make better decisions and inform particpiation. Do you have things that are clearly out of scope and want the community to know about those? Great to add them here.*
+*[Optional] Any other details about the group that the community at large would need to know in order to make better decisions and inform participation. Do you have things that are clearly out of scope and want the community to know about those? Great to add them here.*
 
 
 ## Membership
@@ -36,7 +36,7 @@ forums.swift.org DM: `@forum-handle`
 Include why you are interested, your experience in this domain, and what you'd like to work on based on your interests.
 
 *[Option Two - delete or keep]*
-Membership is reviewed periodically [e.g., annually] to ensure active participation and to create opportunities for new contributors to join. The sponsoring Steering Group, [SG-name-here], finalizes this Workgroups membership. 
+Membership is reviewed periodically [e.g., annually] to ensure active participation and to create opportunities for new contributors to join. The sponsoring Steering Group, [SG-name-here], finalizes this Workgroup's membership. 
 
 <!--Also include expectations:
 
@@ -52,7 +52,7 @@ Membership is reviewed periodically [e.g., annually] to ensure active participat
 
 ### Emeritus Members
 
-We extend our sincere gratitude to the following emeritus workgroup members, whose sustained commitment and valuable insights significantly shaped our work: 
+We extend our sincere gratitude to the following emeritus Workgroup members, whose sustained commitment and valuable insights significantly shaped our work: 
 
 *- Name (@forum_handle)*
 
@@ -61,10 +61,10 @@ We extend our sincere gratitude to the following emeritus workgroup members, who
 The group communicates with the Swift community via:
 
 - Category on Swift Forums: [link or mention relevant tag/forum group]
-- Workgroup can be reached privately by messaging`@group-handle` on the Swift Forums.
+- Workgroup can be reached privately by messaging [`@group-handle`](link) on the Swift Forums.
 
 ### Meetings
-Regular meetings are [biweekly/ monthy/ other option] on [y] time. They will be [public or private] for *[all interested parties, Members of the Workgroup, Workgroup members and maintainers of relevant repositories, other]*.
+Regular meetings are [biweekly/ monthly/ other option] on [y] time. They will be [public or private] for *[all interested parties, Members of the Workgroup, Workgroup members and maintainers of relevant repositories, other]*.
 
 - *[Optional] *Meetings are documented and shared with the community [add cadence or link to minutes if available].**
 
@@ -77,10 +77,10 @@ Everyone is welcome to participate. Ways to get involved include:
 * *[If applicable] Ask for a meeting invite by DM-ing [@group-handle]*
 * Signing up for a relevant Mentoring Program: 
     * *[Insert Mentoring Opportunities Here; e.g. Swift Mentorship Program, GSoC, et al*]
-* Submitting Issues and Pull Requests to repositories above: 
-    * *Include CONTRIBUTING.md links here*
-    * *Providing feedback and suggestions [on/for what: describe here like Swift Evolution topics, Major Changes that are posted where?, New releases?]** 
-    * *[Insert the types of needs here: e.g. Documentation, Unit Tests, Features, Bug Fixes, Security Patches, Platform Support, Dream Big]**
+* Submitting Issues and Pull Requests to repositories [above](#Overview):
+    * *A repository's contributing guidelines can be found in its `CONTRIBUTING.md` file.*
+    * *Providing feedback and suggestions [on/for what: describe here like Swift Evolution topics, Major Changes that are posted where?, New releases?]*
+    * *[Insert the types of needs here: e.g. Documentation, Unit Tests, Features, Bug Fixes, Security Patches, Platform Support, Dream Big]*
 
 * [Optional] *Anything else*
 
