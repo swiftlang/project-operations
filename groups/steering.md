@@ -57,4 +57,4 @@ Steering groups are responsible for the following regular communication with the
 - Announcing (and running) evolution proposal reviews.
 - Announcing decisions about evolution proposal reviews.
 - After every release of Swift, describing the evolution proposals newly implemented in that release.
-- After every release of Swift, describing the current steering group roadmap for the next few upcoming releases (a 1–2 year timeline).
+- After every release of Swift, describe the steering group's current areas of focus for the next few upcoming releases, providing transparency on the areas the steering group wants to invest in.
