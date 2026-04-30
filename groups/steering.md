@@ -15,7 +15,7 @@ Swift steering groups include:
 
 ## Membership
 
-Members of a steering group are volunteers who ordinarily serve for a term of two years. The Swift Core Team is solely responsible for the membership of a steering group and may add or remove members as it sees fit.
+Members of a steering group are volunteers who generally serve in two-year increments, providing a natural cadence to reassess participation. The Swift Core Team is solely responsible for the membership of a steering group and may add or remove members as it sees fit.
 
 The Core Team selects one member of the steering group as the chair. The chair has no special authority over the group, but is responsible for ensuring its smooth functioning, including:
 
