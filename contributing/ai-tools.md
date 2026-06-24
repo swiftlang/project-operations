@@ -1,6 +1,6 @@
 # Use of AI Tools in Contributions
 
-The Swift project welcomes the use of large language models and LLM-based coding assistants when used in line with the contributing guidelines.
+The Swift project welcomes the use of large language models and LLM-based coding assistants when used in line with the contributing guidelines. Swift maintainers expect you to review, validate, and refine (and/or combine with human-written code) your contributions so the final work reflects your human creativity and understanding.
 
 The [contributing guidelines](/contributing) contain criteria for ensuring that a contribution meets the high-quality standards of the Swift project, regardless of how a contribution was developed. They also contain development best practices for ensuring that a contribution is easy for maintainers to review. Ease of review is especially critical with AI-assisted contributions, because maintainers have a higher volume of changes to review. Please carefully read the contribution guidelines and ensure that you follow them for your AI-assisted changes, including keeping PRs small and focused without unrelated changes, separating refactoring from functional changes, limiting the number of PRs you have open at once, etc. Maintainers have a right to request changes on PRs that do not follow these guidelines.
 
