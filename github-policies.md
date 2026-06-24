@@ -57,11 +57,11 @@ In this GitHub organization, you'll find:
   - Accept the GitHub membership and code committers policy.
   - Accept pull requests and issues (unless it's a fork, clone, or mirror with a specific purpose detailed on the README).
   - Have a documented process in place for changes to be proposed, reviewed, and approved, as part of the “evolution” of the project. For some projects, that will be “Swift Evolution” for changes that have deep implications on the language and ecosystem, and for others, it will be through less formal processes as determined by Steering Groups/Core Team.
-  - Adopt [basic contributing guidelines](swift.org/contributing) with a contribution statement in the README or a custom CONTRIBUTING.md file is present.
+  - Adopt [basic contributing guidelines](https://swift.org/contributing) with a contribution statement in the README or a custom CONTRIBUTING.md file is present.
   - Value incremental development.
   - Adopt Swift API Design Guidelines.
 
-## Use of a 'swift-*'' prefix - guidance for the repository name.
+## Use of a 'swift-*' prefix - guidance for the repository name.
 - If it's a rewrite, keep `swift*`.
 - If it has a proper brand name, remove `swift*`.
 

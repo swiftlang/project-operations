@@ -1,8 +1,8 @@
 # Swift Groups
 
-Three types of groups play an integral role in shaping Swifts development: Workgroups, Steering Groups, and the Core Team.  
+Three types of groups play an integral role in shaping Swift's development: Workgroups, Steering Groups, and the Core Team.  
 
-Groups are formed by interested community members reaching out to an already established Steering Group on the [Swift Forums](forums.swift.org) to see if it fits into the goals of the Swift project at this time. If so, the established Steering Group will sponsor and a charter template will be used to kick off wider dicussions with the community. The charter used to document the scope, purpose, members, community participation information, and operational processes. Established Groups charter changes go through the Core Team for final approval. 
+Groups are formed by interested community members reaching out to an already established Steering Group on the [Swift Forums](forums.swift.org) to see if it fits into the goals of the Swift project at this time. If so, the established Steering Group will sponsor and a charter template will be used to kick off wider discussions with the community. The charter used to document the scope, purpose, members, community participation information, and operational processes. Established Groups charter changes go through the Core Team for final approval. 
 
 ## Workgroups
 
@@ -22,7 +22,7 @@ Workgroups are the heart of the engineering and development work of the project.
 
 ## Steering Groups 
 
-Steering Groups are responsible for the overall strategic direction for broad area such as the overall language and provide stewardship and oversight to Workgroups. 
+Steering Groups are responsible for the overall strategic direction for a broad area such as the overall language and provide stewardship and oversight to Workgroups. 
 
 Steering Groups have evolution authority over specific functional Workgroups of the project. Evolution authority is the ability to determine the means by which a functional area receives improvements. For example, code review may be sufficient for development work in a particular area, but other areas may need a more formal review process to facilitate decision making. Each Steering Group determines the appropriate development model for each of their functional areas, and their charter defines which areas the Steering Group has evolution authority over.
 
