@@ -17,7 +17,7 @@ Engagement on the forums should follow these guidelines:
 
 - Different users may have different preferences in choice of language for discussion and are encouraged to use their language of choice.
 
-- As a matter of courtesy, responses to a post should be in the same language as the original post in order to maintain the original inclusiveness of the discussion and not inadvertantly exclude other participants already engaged on the thread (including the author of the original post).
+- As a matter of courtesy, responses to a post should be in the same language as the original post in order to maintain the original inclusiveness of the discussion and not inadvertently exclude other participants already engaged on the thread (including the author of the original post).
 
 - A response to a post has the option of providing _additional text_ in a different language if that is helpful.
 

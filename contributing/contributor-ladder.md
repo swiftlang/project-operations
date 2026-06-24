@@ -9,7 +9,7 @@ As you climb the contributor ladder by contributing to Swift on GitHub, you gain
 A *Member* has constructively contributed to Swift multiple times. This role is held across the entire organization, becoming a *Member* allows you to trigger CI on all repositories in the swiftlang organization on GitHub.
 
 - Requirements
-  - Make multiple constructive contributions to the Swift projects. This can be in the form of PRs, engagement on the Swift Forums, filing valuable issue, triaging them, or similar.
+  - Make multiple constructive contributions to the Swift projects. This can be in the form of PRs, engagement on the Swift Forums, filing valuable issues, triaging them, or similar.
 - Privileges
   - Ability to trigger CI testing
   - Show your membership in the swiftlang organization on your GitHub profile
@@ -32,7 +32,7 @@ A *Code Merger* has made several high-quality contributions, has enough knowledg
 - Nomination
   - Like for a *Member*, please send a message to [the code-owners group](https://forums.swift.org/g/code-owners) on the Swift forums that includes your contributions, the GitHub user name that you want to use and the repositories you want to become a *Code Merger* for. At the discretion of the code owner list, you may also be granted the *Code Merger* role for repositories that you have not contributed to but that are conceptually linked to your contributions, like `swift-syntax` and `swift-driver` after having contributed to the compiler.
 - Growth
-  - As an *Code Merger*, you are trusted not just with your own work but with helping others. In reviews, you can show that you are able to take care of a code area to become a *Code Owner*.
+  - As a *Code Merger*, you are trusted not just with your own work but with helping others. In reviews, you can show that you are able to take care of a code area to become a *Code Owner*.
 
 ## Code Owner
 
