@@ -30,12 +30,10 @@ _This section details the repositories that the group manages, oversees, maintai
 
 Members of the [Group Name] are community members with expertise or interest in this domain who actively contribute toward the goals of the group.
 
-*[Keep Option One]*
 To join:
 forums.swift.org DM: `@forum-handle`
 Include why you are interested, your experience in this domain, and what you'd like to work on based on your interests.
 
-*[Kepp Option Two]*
 Membership is reviewed periodically [e.g., annually] to ensure active participation and to create opportunities for new contributors to join. The sponsoring Steering Group, [SG-name-here], finalizes this Workgroup's membership. 
 
 <!--Also include expectations:
