@@ -12,6 +12,7 @@ Current Table of Contents:
   - 🔜 GitHub management: process for the creation of new repositories and how to initiate a transfer/migration
   - 🔜 GitHub membership and roles
 - [Contributing Guide]
+- [Development Resources](contributing/development-resources.md): source code layout, continuous integration, source compatibility, compiler architecture, and monthly non-Darwin releases
 - 🔜 License Header Information
 
 
