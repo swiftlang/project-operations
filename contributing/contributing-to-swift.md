@@ -18,6 +18,7 @@ The Swift language is developed in the open, and all technical or administrative
 - [Swift evolution process](./swift-evolution.md)
 - [Contributing code](./contributing-code.md)
 - [Contributor ladder](./contributor-ladder.md)
+- [Development resources](./development-resources.md)
 
 Source code for Swift projects can be found on GitHub at [github.com/swiftlang](https://github.com/swiftlang).
 The Swift bug tracking system is maintained at [github.com/swiftlang/swift/issues](http://github.com/swiftlang/swift/issues).
