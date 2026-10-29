@@ -39,7 +39,7 @@ Examples:
   * Writing a proposal's motivation or alternatives sections from scratch
   * Responding to reviewer feedback with AI-generated replies
 
-> **Rationale**: We're a community of humans, and we value hearing your ideas, questions, insights, and reasoning in your own words. When you write your own prose, you are forced to clarify your own thinking, surface gaps in your understanding, and take genuine ownership of what you're proposing. A PR description or forum reply that was generated rather than written tells reviewers and collaborators less about your reasoning, and makes it harder for the community to engage meaningfully with your contribution.
+> **Rationale**: We're a community of humans, and we value hearing your ideas, questions, insights, and reasoning in your own words. Writing in your own voice helps you clarify your thinking, notice gaps in your understanding, and take ownership of what you're proposing. It also lets others see how you're thinking about the topic directly, which better facilitates meaningful technical discussions, and helps build connections between contributors.
 
 ## Learning-oriented contributions
 
