@@ -2,7 +2,7 @@
 
 **Note: This document is a work-in-progress and under active development by the Core Team.**
 
-The Swift project welcomes the use of large language models and LLM-based coding assistants when used in line with the contributing guidelines. Swift maintainers expect you to review, validate, and refine (and/or combine with human-written code) your contributions so the final work reflects your human creativity and understanding.
+The Swift project welcomes the use of large language models and LLM-based coding assistants when used in line with the contributing guidelines. Swift maintainers expect you to review, validate, and, as needed, refine and/or combine with human-written code so the final contribution reflects your human creativity, understanding, and control.
 
 The [contributing guidelines](/contributing) contain criteria for ensuring that a contribution meets the high-quality standards of the Swift project, regardless of how a contribution was developed. They also contain development best practices for ensuring that a contribution is easy for maintainers to review. Ease of review is especially critical with AI-assisted contributions, because maintainers have a higher volume of changes to review. Please carefully read the contribution guidelines and ensure that you follow them for your AI-assisted changes, including keeping PRs small and focused without unrelated changes, separating refactoring from functional changes, limiting the number of PRs you have open at once, etc. Maintainers have a right to request changes on PRs that do not follow these guidelines.
 
@@ -23,7 +23,7 @@ Examples:
 
 ## Writing and Voice
 
-You are expected to use your own ideas, judgment, and voice when producing written materials associated with a contribution, including (but not limited to) forum and GitHub comments, proposal documents, documentation, commit messages, and PR descriptions.
+You are expected to use your own ideas, judgment, expression, and voice when producing written materials associated with a contribution, including (but not limited to) forum and GitHub comments, proposal documents, documentation, commit messages, and PR descriptions.
 
 Using AI tools to help write text is acceptable, such as for editorial refinements or translation help, and you are expected to review, adapt, and personalize the text. Before posting AI-assisted text, ask yourself: does this accurately reflect my own understanding and reasoning? If a reviewer asked you to elaborate on a point in your PR description, could you do so in your own words? If not, the text needs more of your own thinking before it's ready.
 
